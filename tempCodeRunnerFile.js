@@ -1,0 +1,1 @@
+  {status ? <Text style={styles.text}>{contentn}</Text> : null}
